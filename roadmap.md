@@ -14,9 +14,9 @@
 
 > 🔜  BPAD Private sale
 >
-> 🔜 Launch BPAD ICO Token sale \(Phase 1-50\)
+> 🔜 Launch BPAD ICO Token sale \(Phase 1-12\)
 
-> 🔜 Complete BPAD ICO Token Sale \(Phase 51-100\)
+> 🔜 Complete BPAD ICO Token Sale \(Phase 13-25\)
 
 ### Q1 2022
 
