@@ -15,3 +15,5 @@ Token allocation
 | Team  | 10% | 100,000,000 | Locked for 1 year. Vesting 1% every month | January 2024 | Coming soon |
 | Development  | 10% | 100,000,000 | Locked for 6 Month. Vesting 1% every successive month | July 2023 | Coming soon |
 
+![](../../.gitbook/assets/image%20%285%29.png)
+

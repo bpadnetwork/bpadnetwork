@@ -4,7 +4,7 @@
 
 Go to [MetaMask.io](http://metamask.io/) and select from Android or iOS for mobile application and select Chrome for desktop. You can also go directly to the Chrome store, Google Play store. 
 
-### 2.0 Binnance smart Chain Configuration 
+### 2.0 Binance smart Chain Configuration 
 
 #### **Meta Mask by default uses Ethereum network  so we need to change to Binnace smart Chain** 
 
