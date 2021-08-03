@@ -1,7 +1,5 @@
 # Roadmap
 
-
-
 ### **Jan/June 2021**
 
 > **✅** Creating the BPAD launchpad idea & establishing the core team
