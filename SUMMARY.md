@@ -28,4 +28,5 @@
 ## Wallets
 
 * [Metamask](wallets/metamask.md)
+* [Trust Wallet](wallets/trust-wallet.md)
 

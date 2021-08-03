@@ -16,49 +16,31 @@ BPAD is an easy to remember and recall name for our users , however the B is the
 
 
 
-## **3.** What problem we are solving ?
-
-
-
-
-
-
-
-
-
 ## **4.** What is the feature development  ?
 
-
-
-
-
-
-
-
+In the feature, BPAD will continue to build the BPAD platform and gradually adding new functionalities and improvements based on the user's experience and feedback that we collect.
 
 ## **5.** How to get updates about BPAd  ?
 
-Pleas
+Users can get updated information about BPAD by following our social media Links , please visit the link here :  
 
-
-
-
+[https://linktr.ee/bpad](https://linktr.ee/bpad) 
 
 
 
 ## **6. W**hat is the total supply of the project ?
 
+**The Total Supply:** 1,000,000,000 . for more info about the tokonomas please vist 
+
+[https://docs.bpad.network/tokenomics-1/token-distribution-1](https://docs.bpad.network/tokenomics-1/token-distribution-1)
 
 
 
 
 
+## **What BPAD will provide to the projects Lunching on the platform?** 
 
-
-
-
-
-## **7.** What are the benefits or advantages for projects that will launch on the Kommunitas platform?
+**BPAD will provide** 
 
 
 
