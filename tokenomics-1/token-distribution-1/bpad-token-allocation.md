@@ -2,7 +2,7 @@
 
 Token allocation 
 
-| Allocation | % |  BPADP | Description | 100% Unlock on | Proof of links |
+| Allocation | % |  BPAD | Description | 100% Unlock on | Proof of links |
 | :--- | :---: | :---: | :--- | :--- | :--- |
 | Private Sale | 1% | 10,000,000 | 30% DEX listing then 30% every month for 3 months | 15th July 2022 | Coming soon |
 | Public Sale | 15% | 150,000,000 | 100% Unlock | 15th March 2022 | Coming soon |
