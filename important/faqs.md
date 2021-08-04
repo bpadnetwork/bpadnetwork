@@ -20,7 +20,7 @@ BPAD is an easy to remember and recall name for our users , however the B is the
 
 In the feature, BPAD will continue to build the BPAD platform and gradually adding new functionalities and improvements based on the user's experience and feedback that we collect.
 
-## **5.** How to get updates about BPAd  ?
+## **5.** How to get updates about BPAD  ?
 
 Users can get updated information about BPAD by following our social media Links , please visit the link here :  
 
@@ -30,7 +30,7 @@ Users can get updated information about BPAD by following our social media Links
 
 ## **6. W**hat is the total supply of the project ?
 
-**The Total Supply:** 1,000,000,000 . for more info about the tokonomas please vist 
+**The Total Supply:** 1,000,000,000 . for more info about the tokenomics please visit 
 
 [https://docs.bpad.network/tokenomics-1/token-distribution-1](https://docs.bpad.network/tokenomics-1/token-distribution-1)
 
